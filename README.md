@@ -1,4 +1,4 @@
-# OpenCL
+# **OpenCL**
 **OpenCL从“0”学习笔记**
 
 **OpenCL基本编程步骤：**
@@ -11,7 +11,21 @@
 
 **执行内核**
 
-**1、clplatform clinfo**
+**1、cldev clinfo    cl设备与信息**
+
+**2、clcontext          cl上下文**
+
+​      **clcmdQueue    cl命令队列**
+
+**3、clkernel             cl内核**
+
+​      **clprogram        cl程序对象**
+
+**4、clmem               cl内存**
+
+**5、clsyn**   
+
+
 
 
 
